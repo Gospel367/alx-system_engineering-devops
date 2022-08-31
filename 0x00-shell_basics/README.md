@@ -8,3 +8,4 @@
 8. 8-firstdelete: Detty betty from /tmp/my_first_directory
 9. 9-firstdirdeletion: Delete my_first_directory
 10. 10-back: Go back to previous folder
+11. 11-lists: List longformat and hidden files of pwd, the parent and /boot
