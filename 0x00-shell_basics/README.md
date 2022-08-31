@@ -12,3 +12,4 @@
 12. 12-file-type: Show the file type
 13. 13-symbolic_link: Create a symbolic link 
 14. 14-copy_html: COpy bulk html files
+15. 100-lets_move: Move files starting with upper case
