@@ -11,3 +11,4 @@
 11. 11-lists: List longformat and hidden files of pwd, the parent and /boot
 12. 12-file-type: Show the file type
 13. 13-symbolic_link: Create a symbolic link 
+14. 14-copy_html: COpy bulk html files
