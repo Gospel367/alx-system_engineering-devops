@@ -15,3 +15,4 @@
 15. 100-lets_move: Move files starting with upper case
 16. 101-clean_emacs: Clean emacs files
 17. 102-tree: Create the folder welcome/to/school
+18. 103-commas: List files in ls -pamv format
