@@ -3,3 +3,4 @@
 3. 3-listfiles: Show all files and directories in long format
 4. 4-listmorefiles: Show all the files including hidden files 5-listfilesdigitonly
 5. 5-listfilesdigitonly: Show file digits, users, id etc
+6. 6-firstdirectory: Create my_first_directory in /tmp/ folder
