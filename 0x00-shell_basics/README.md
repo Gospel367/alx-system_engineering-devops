@@ -9,3 +9,4 @@
 9. 9-firstdirdeletion: Delete my_first_directory
 10. 10-back: Go back to previous folder
 11. 11-lists: List longformat and hidden files of pwd, the parent and /boot
+12. 12-file-type: Show the file type
