@@ -14,3 +14,4 @@
 14. 14-copy_html: COpy bulk html files
 15. 100-lets_move: Move files starting with upper case
 16. 101-clean_emacs: Clean emacs files
+17. 102-tree: Create the folder welcome/to/school
